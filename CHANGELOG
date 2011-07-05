@@ -1,0 +1,9 @@
+Newer entries appear toward the bottom.
+
+1.0
+---
+    - Initial release
+
+1.1
+---
+    - Rewritten in C for faster execution and no bash version dependence.
